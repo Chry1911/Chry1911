@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python and other things
 - 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me, write to me in instagram chry_cortez
+- 📫 How to reach me, write to me in instagram chry_cortez or on email christian.cortese.cc@gmail.com
 
 <!---
 Chry1911/Chry1911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
